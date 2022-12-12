@@ -1,0 +1,20 @@
+[search]
+keyword = "花胶"
+pages = 1
+
+[headers]
+cookie = "cna=hl+rG0rFek0CAXjmnmbmNSrC; t=e6add43aead466510a4b15683b66e54c; cookie2=14506f56d6fdf253f0a2952fa151720c; _tb_token_=818857e6f3b3; _samesite_flag_=true; xlly_s=1; sgcookie=E100HvNc%2B2%2F3fasTli02SSHmTviKU0xVlX2DjKzVVE4COEanyIE59hOs8DasEpCJ3zVCNbBOE7MNjXnsWz3nHGSXmFrOokiRQuTqasrbDsW4u74MCJFfklVy6wIKRDwGb5f2; unb=86403637; uc3=vt3=F8dCv4UzDDCjsKctaKA%3D&id2=W89Itzd9VF0%3D&lg2=Vq8l%2BKCLz3%2F65A%3D%3D&nk2=EFeX81RDKg%3D%3D; csg=68113023; lgc=sigpher; cancelledSubSites=empty; cookie17=W89Itzd9VF0%3D; dnk=sigpher; skt=cfc0c70688062cdf; existShop=MTY2NDIwMTQyMw%3D%3D; uc4=id4=0%40Wey5E7goPDyKL1mr9e%2F%2BXI8v%2BA%3D%3D&nk4=0%40Eo4jrx7QF2DpN%2BzukuMw7fw3; tracknick=sigpher; _cc_=UIHiLt3xSw%3D%3D; _l_g_=Ug%3D%3D; sg=r7c; _nk_=sigpher; cookie1=VAcMaU3mIR3H1MBU3MRT3Ci8dEAVttUzA9xyO61f7a8%3D; v=0; mt=ci=-1_1; thw=cn; _m_h5_tk=fa8c4476ec0fbc88548b8db3cba0d218_1664209121051; _m_h5_tk_enc=fad42fb758291151c0b2e06679d91d2b; miid=8574220882031235997; lLtC1_=1; uc1=existShop=false&cookie15=WqG3DMC9VAQiUQ%3D%3D&cookie16=VFC%2FuZ9az08KUQ56dCrZDlbNdA%3D%3D&cookie21=U%2BGCWk%2F7ow08GIhZA1V8cQ%3D%3D&cookie14=UoeyChAGNtVIBA%3D%3D&pas=0; enc=MaN8drj4lk4zDKx4uhZ13n6smVbml3QwjErL7zCjpv7KQWj1HFt0Efnq15McTLlPy99W%2FbIE5opunoPhXUodsA%3D%3D; alitrackid=www.taobao.com; lastalitrackid=www.taobao.com; JSESSIONID=FA0392F668F5E1C7F30DA77731827ED8; isg=BOjoRMTjH7oe4DM-4L5GXQWBudb6EUwbfqg5qaIZvGP9_YhnSiOTq3V88ZUNTQTz; l=eBS3bR_4TSRZXCOdBO5aFurza77toIRb4sPzaNbMiInca6Mdt3dIrNCElEG9Sdtjgt13KetrAE3aCdLHR3fRwxDDB3h2q_-inxf..; tfstk=c76cBof5UsRXd7eOPZ9bQiEVuBFdanMw-OW5UoQ1-_G5urdp0sfSaXPrCuY0Rrl1."
+user-agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50"
+authority = "s.taobao.com"
+
+[content]
+auctions = [
+    "title",
+    "raw_title",
+    "pic_url",
+    "detail_url",
+    "view_price",
+    "item_loc",
+    "view_sales",
+    "nick",
+]
